@@ -335,6 +335,15 @@ hr {
     font-style: italic;
 }
 
+#nodes {
+    color: white;
+    font-style: italic;
+}
+
+#node {
+    margin-left: -70px;
+}
+
 .bar2 {
     margin-left: -200px;
     color: white;
