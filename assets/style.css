@@ -344,6 +344,16 @@ hr {
     margin-left: -70px;
 }
 
+#mysqls {
+    font-style: italic;
+    width: 200px;
+}
+
+#mysql {
+    margin-left: 220px;
+    margin-top: -180px;
+}
+
 .bar2 {
     margin-left: -200px;
     color: white;
