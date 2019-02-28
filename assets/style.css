@@ -279,7 +279,7 @@ hr {
 
 #triviaphoto {
     margin-left: 840px;
-    margin-top: -180px;
+    margin-top: -202px;
 }
 
 @media screen and (max-width: 980px) {
@@ -410,4 +410,19 @@ a:link {
 
 .contactinfo {
     margin-left: 110px;
+}
+
+#friendfinder {
+    margin-left: 290px;
+    margin-top: -180px;
+    width: 100%;
+}
+
+h5 {
+    width: 200px;
+}
+
+#burger {
+    margin-left: 600px;
+    margin-top: -180px;
 }
